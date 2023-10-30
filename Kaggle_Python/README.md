@@ -1,2 +1,2 @@
 # Kaggle-Python
-![Kaggle - Python](https://github.com/kemda2/Kaggle-Python/assets/19648132/67c43a85-4f8f-4b0b-8783-75f7da853356)
+![Kemal Musab Dayioglu - Python](https://github.com/kemda2/Kaggle-Courses/assets/19648132/1aba83bd-1275-4d76-a73c-4a6e2f65248d)
