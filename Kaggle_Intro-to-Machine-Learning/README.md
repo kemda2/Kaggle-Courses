@@ -1,2 +1,3 @@
 # Kaggle_Intro-to-Machine-Learning
-![Kaggle_Intro to Machine Learning](https://github.com/kemda2/Kaggle_Intro-to-Machine-Learning/assets/19648132/6abb51c0-a4df-49ed-81f1-e7300bb19f06)
+![Kemal Musab Dayioglu - Intro to Machine Learning](https://github.com/kemda2/Kaggle-Courses/assets/19648132/50026396-7aeb-4f6b-b7e7-311c32991128)
+
