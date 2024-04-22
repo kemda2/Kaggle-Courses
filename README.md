@@ -1,3 +1,4 @@
-# Kaggle-Courses
-![Ekran görüntüsü 2023-11-01 082614](https://github.com/kemda2/Kaggle-Courses/assets/19648132/2047febd-ebd9-4d62-a1ff-0bdc46f253e7)
+# My Kaggle Certificates
 
+!()[./images/Kemal%20Musab%20Dayioglu%20-%20Computer%20Vision.png]
+!()[./images/Kemal%20Musab%20Dayioglu%20-%20Computer%20Vision.png]
